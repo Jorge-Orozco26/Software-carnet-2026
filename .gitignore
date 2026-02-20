@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Carpeta de fotos (datos sensibles)
+fotos/
+
+# Archivos generados
+salida/
+
+# Excel con datos de estudiantes
+excel/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
